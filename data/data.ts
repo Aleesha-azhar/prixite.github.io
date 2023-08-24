@@ -319,7 +319,6 @@ export const jobsData = {
   jobsPageTitle: 'Jobs',
   jobsPageHeader: 'Careers at Prixite 🚀',
   jobPageHeader: 'Full time - Remote',
-  jobsHeading: 'Our Jobs',
   aboutRole: 'About the Role',
   description: 'Description',
   jobDataNotFound: 'No Jobs available currently',
